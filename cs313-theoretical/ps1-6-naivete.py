@@ -47,10 +47,10 @@ def vertex_cover_naive(input_graph):
 
 def test():
     graph = [[0, 1, 1, 1, 1],
-        [1, 0, 0, 0, 1],
-        [1, 0, 0, 1, 1],
-        [1, 0, 1, 0, 1],
-        [1, 1, 1, 1, 0]]
+            [1, 0, 0, 0, 1],
+            [1, 0, 0, 1, 1],
+            [1, 0, 1, 0, 1],
+            [1, 1, 1, 1, 0]]
 
     assert vertex_cover_naive(graph)==3 
 

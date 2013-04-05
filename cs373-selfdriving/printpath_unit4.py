@@ -15,7 +15,7 @@
 # lowercase.
 #
 # Your function should be able to do this for any
-# provided grid, not just the sample grid below.
+# provided grid, not just the sample grid below. 
 # ----------
 
 
